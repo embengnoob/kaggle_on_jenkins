@@ -1,0 +1,1 @@
+for %f in ("*.ipynb") do @echo %%~nf | find /v "ECHO is"
